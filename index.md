@@ -4,7 +4,7 @@
 ![Image](vimSS.png) 
 ![Image](Lab4Pt2.png) 
 ![Image](COMMMIT&PUSH.png) 
-![Image](COMMMIT&PUSHPt2.png) 
+![Image](COMMIT&PUSHPt2.png) 
 
 Keys Pressed: 
 ~~~
