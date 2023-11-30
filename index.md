@@ -1,26 +1,32 @@
 # Lab 4
 
-![Image](STEPS4-9.png)  
+![Image](Lab4Pt1.png)  
+![Image](Lab4Pt2.png) 
 ![Image](COMMMIT&PUSH.png) 
+![Image](COMMMIT&PUSHPt2.png) 
 
 Keys Pressed: 
 ~~~
 ssh cs15lfa23qi@ieng6.ucsd.edu
+<enter>
 ~~~
 This command is used to long into my ieng6 account.
 
 ~~~
 cd lab7
+<enter>
 ~~~
 This command is used to go in the directory of lab7.
 
 ~~~
 bash test.sh
+<enter>
 ~~~
 This command is used to run the test, demonstrating failure.
 
 ~~~
 vim ListExamples.java
+<enter>
 ~~~
 This command is used to use vim in the ListExamples code.
 
@@ -49,20 +55,32 @@ The key "w" is used to save changes made to the code and the key "q" is use to q
 
 ~~~
 bash test.sh
+<enter>
 ~~~
 This command is used to run the test, demonstrating that it passes with the new edited filed.
 
 ~~~
 git add ListExamples.java
+<enter>
 ~~~
 This command is used to stage the changes for the final commit.
 
 ~~~
 git status
+<enter>
 ~~~
 This command is used to see the current status of the working directory and staging area.
 
 ~~~
 git commit
+<enter>
 ~~~
 This command is used to save the changes to the local Git repository.
+
+~~~
+git push
+<enter>
+claudiaaling
+*password
+~~~
+This command is used to update local repository content onto the remote repository
