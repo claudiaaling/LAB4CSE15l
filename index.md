@@ -1,6 +1,7 @@
 # Lab 4
 
 ![Image](Lab4Pt1.png)  
+![Image](vimSS.png) 
 ![Image](Lab4Pt2.png) 
 ![Image](COMMMIT&PUSH.png) 
 ![Image](COMMMIT&PUSHPt2.png) 
